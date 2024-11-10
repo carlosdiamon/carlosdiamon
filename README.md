@@ -1,9 +1,5 @@
 <img src="https://discord-cards.onrender.com/api/card/419258281857646593?about=:v&banner=https://www.anmosugoi.com/wp-content/uploads/2022/11/date-a-live-kurumi-traje-de-bano.jpg&large_image=https://cdn3.emoji.gg/emojis/4297-pepe-hacker.gif&small_image=https://cdn3.emoji.gg/emojis/6472-mc.gif" alt="Discord: CarlosDiamon" align="right" style="margin-right: 40px; margin-top: 80px" />
 
-# Hi there! 👋
-
-I'm Carlos León, a 19-year-old Systems Engineering student at University El Bosque. ¯\\_(ツ)_/¯
-
 ## About Me
 
 - 🎓 Studying at UEB University
